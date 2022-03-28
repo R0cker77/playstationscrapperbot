@@ -7,3 +7,4 @@ dnspython
 pymongo
 
 Used scrapyCloud to deploy.. some packages in the requi.txt file are for scrapycloud deployment and not the spider itself
+"""OUTDATED!"""
